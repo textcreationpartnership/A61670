@@ -1,0 +1,395 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A sermon upon Job 29, 15 preached before the judges at a general assise in Hertford when that good and charitable person Rowland Hales, Esquire, was high-sheriff of that shire / by David Stokes.</title>
+            <author>Stokes, David, 1591?-1669.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1667</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 43 KB of XML-encoded text transcribed from 19 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A61670</idno>
+            <idno type="STC">Wing S5721</idno>
+            <idno type="STC">ESTC R23664</idno>
+            <idno type="EEBO-CITATION">07869774</idno>
+            <idno type="OCLC">ocm 07869774</idno>
+            <idno type="VID">40211</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A61670)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 40211)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1213:27)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A sermon upon Job 29, 15 preached before the judges at a general assise in Hertford when that good and charitable person Rowland Hales, Esquire, was high-sheriff of that shire / by David Stokes.</title>
+                  <author>Stokes, David, 1591?-1669.</author>
+               </titleStmt>
+               <extent>35 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by William Hall, for Richard Davis,</publisher>
+                  <pubPlace>Oxford :</pubPlace>
+                  <date>Anno Dom. 1667.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Cambridge University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bible. --  O.T. --  Job XXIX, 15 --  Sermons.</term>
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-10</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2011-10</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:40211:1"/>
+            <pb facs="tcp:40211:1" rendition="simple:additions"/>
+            <p>A SERMON upon <hi>Job</hi> 29.15.</p>
+            <p>Preached before the JUDGES, at a General Aſſiſe in <hi>Hertford,</hi> when that good and charitable Perſon <hi>Rowland Hales</hi> Eſquire, was High-Sheriff of that Shire.</p>
+            <p>
+               <hi>By DAVID STOKES,</hi> D. D.</p>
+            <p>
+               <hi>OXFORD,</hi> Printed by <hi>William Hall,</hi> for <hi>Richard Davis, Anno Dom,</hi> MDCLXVII.</p>
+         </div>
+         <div type="imprimatur">
+            <pb facs="tcp:40211:2"/>
+            <p>Imprimatur</p>
+            <closer>
+               <signed>JOHAN. FELL, <hi>Vice-Cancellarius</hi> Oxon.</signed>
+               <date>Febr. 1. 1666/7.</date>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb n="1" facs="tcp:40211:2"/>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>Job. 29.15.</hi>
+                  </bibl>
+                  <p>I was the eyes to the blind, and the feet to the lame.</p>
+               </q>
+            </epigraph>
+            <p>
+               <seg rend="decorInit">I</seg>N this chapter we have a brief ſtory of one, that was (in his time) ſo abſolute a Magiſtrate, ſo compleat a Judge, that he may well be the pattern, and <hi>myrrour,</hi> of <hi>all that come after him.</hi>
+            </p>
+            <p>And this way of pattern <hi>(iter per exempla)</hi> you know it is our ſureſt, and our ſhorteſt way; we can not better <hi>read our own duties,</hi> then in <hi>the lives of others.</hi> We can not better ſee the true face of virtues and vices, then we may do it in their actions.</p>
+            <p>I might have ſaid in <hi>their actions,</hi> [and in them only] we need not enquire much after <hi>their perſons.</hi> For vice we muſt imitate in no man (be his perſon never ſo great:) But for
+<pb n="2" facs="tcp:40211:3"/>his virtue (be he in himſelf never ſo mean) we may ſafely propound that, to our imita<g ref="char:EOLhyphen"/>tion.</p>
+            <p>It is neither his nor ours, it carries no mark of any owner, but of God himſelf, from whom it was firſt taken as the Author of every good and perfect gift.</p>
+            <p>Yet, becauſe we rather <hi>love virtue, where we like the perſon,</hi> and we had rather frame our ſelves to the example of thoſe that were of ſome eſteem, and place, and authority; therefore <hi>who it is that ſpeaks this,</hi> that would firſt be known, who it is that ſaith here, <hi>I was the eyes to the blind, and the feet to the lame.</hi> They are the <hi>words of a great man</hi> (every way great:) And. (if that may any thing move your attention) whether ſoever you caſt your eyes round about my text, you may ſpie out ſome <hi>arguments of his greatneſs.</hi>
+            </p>
+            <p>That he was great in <hi>wealth,</hi>
+               <label type="milestone">
+                  <seg type="milestoneunit">Ver. </seg>6</label> the 6. verſe tells us, <hi>He waſhed his paths with butter, and the rock poured him out rivers of oil.</hi>
+            </p>
+            <p>That he was great in <hi>Authority,</hi> it is plain by the next words; <label type="milestone">
+                  <seg type="milestoneunit">Ver. </seg>7</label> 
+               <hi>He had his chair in the publick gates, and ſtreets of the City</hi> [which
+<pb n="3" facs="tcp:40211:3"/>were in thoſe times the ordinary places of judgement.]</p>
+            <p>The 8. verſe ſhows him as great in <hi>Honor,</hi>
+            </p>
+            <p>
+               <hi>The young men ſaw him and hid themjelves, the aged aroſe and ſtood up.</hi>
+            </p>
+            <p>Will you add unto all theſe, a rare gift [an excellent power in learning and elo<g ref="char:EOLhyphen"/>quence.] It is the next thing in the ſequele of the words: <hi>The Princes refrained talking,</hi>
+               <label type="milestone">
+                  <seg type="milestoneunit">Ver. </seg>9</label> 
+               <hi>and laid their hands on their mouths.</hi>
+               <label type="milestone">
+                  <seg type="milestoneunit">Ver. </seg>10</label> 
+               <hi>The No<g ref="char:EOLhyphen"/>bles held their peace, and their tongues cleaved to the roof of their mouth. When the ear heard him, it bleſſed him; and when the eye ſaw him,</hi>
+               <label type="milestone">
+                  <seg type="milestoneunit">Ver. </seg>11</label> 
+               <hi>it gave witneſs unto him.</hi> And thus we ſee him great in Wealth, in Authority, in Ho<g ref="char:EOLhyphen"/>nour, in Learning, and in Eloquence.</p>
+            <p>But was he alſo as great <hi>in virtue?</hi>
+            </p>
+            <p>Did not his preferments outrun his de<g ref="char:EOLhyphen"/>ſerts?</p>
+            <p>No, (if that may add any thing more to your attention) for the <hi>two main virtues</hi> of ſo great a Magiſtrate, <hi>(Juſtice and Mercy)</hi> the next verſe ſpeaks his greatneſs in them.<label type="milestone">
+                  <seg type="milestoneunit">Ver. </seg>12</label> 
+               <hi>He delivered the poor that cried; the fatherleſs, and him that had none to help him: The bleſſing of
+<pb n="4" facs="tcp:40211:4"/>him that was ready to periſh came upon him—he cauſed the widows heart to ſing for joy.</hi>
+               <label type="milestone">
+                  <seg type="milestoneunit">Ver. </seg>13</label> 
+               <hi>He put on Righteouſneſs,</hi>
+               <label type="milestone">
+                  <seg type="milestoneunit">Ver. </seg>14</label> 
+               <hi>and it clothed him, his Judgement was his robe, and his diadem.</hi> All theſe uſher the way to my text, and may eaſily perſuade us, that they are the words of a <hi>great Man,</hi> of a <hi>great Magiſtrate,</hi> and of a <hi>great Judge.</hi> For, that is ſpecially aimed at (in this ſo large a deſcription) and that you may know it is ſo) his <hi>Mercy and Juſtice</hi> are <hi>repeated again,</hi> in the next words after my Text.<label type="milestone">
+                  <seg type="milestoneunit">Ver. </seg>16</label> 
+               <hi>I was a father to the poor, and the cauſe which I knew not, I ſearch<g ref="char:EOLhyphen"/>ed it out.</hi>
+               <label type="milestone">
+                  <seg type="milestoneunit">Ver. </seg>17</label> 
+               <hi>I brake the jaws of the wicked, and plucked the ſpoil out of his teeth.</hi>
+            </p>
+            <p>You ſee then how my <hi>Text is hedged in e<g ref="char:EOLhyphen"/>very way,</hi> with <hi>honorable teſtimonies</hi> of this Judge. And, as it is in the midſt, ſo it is in<g ref="char:EOLhyphen"/>deed, the <hi>life and virtue of all the reſt.</hi> It is the true embleme of a good Magiſtrate, and <hi>per<g ref="char:EOLhyphen"/>fect character of a good Judge:</hi> I had almoſt ſaid the very <hi>Idea of true Greatneſs,</hi> and Juſtice it ſelf. But I muſt not ſay ſo. It is not here in the abſtract <hi>Job is the man</hi> that had it; <hi>I was the eyes to the blind, and the feet to the lame</hi> (ſaith he) that is, he was ready to become
+<pb n="5" facs="tcp:40211:4"/>any thing for their ſakes, and willing to ap<g ref="char:EOLhyphen"/>ply himſelf to any neceſſity of their wants: For in theſe two <hi>[in oculo, &amp; pede]</hi> if they be well conſidered, we ſhall find all that is re<g ref="char:EOLhyphen"/>quirable in a good Judge.</p>
+            <p>Shall I fetch them out of their natural method, and firſt take them both together.</p>
+            <p>If he be both the eye and the foot; Nay, if <hi>he be either, oculus,</hi> or <hi>pes,</hi> we are ſure he is <hi>a part of the body politick.</hi> That is the firſt thing that follows out of this ground; a <hi>near reference</hi> of his to all that are under his au<g ref="char:EOLhyphen"/>thority; <hi>ſpecially to the blind and the lame,</hi> that is, to the weakeſt of them, <hi>I am their eye</hi> (ſaith <hi>Job</hi>) or, (if that be too little) I will go <hi>as low as their feet;</hi> any thing for a nearer claim, and challenge unto them. So ſaith <hi>Job:</hi> And the greateſt Magiſtrates and Judg<g ref="char:EOLhyphen"/>es ſhould ſay the like for any of us their poor fellow-members. A <hi>double intereſt</hi> we have in them, as the parts of our body politick: They are the eyes, they are the feet, and therefore <hi>we do no more then we ſhould do, to re<g ref="char:EOLhyphen"/>ly upon them</hi> for their help. And <hi>they have done no more than they ſhould do;</hi> what good
+<pb n="6" facs="tcp:40211:5"/>ſoever they have done to the weal publick: For the conſervation and good of the whole body, is the language which every particular member doth naturally ſpeak.</p>
+            <p>But I will dwell no longer in theſe Gene<g ref="char:EOLhyphen"/>rals: I will come now to <hi>conſider theſe two parts aſunder:</hi> And <hi>firſt the eye: Oculus eram</hi>—</p>
+            <p>Parts of the body they are (our greateſt Judges and Magiſtrates) But this <hi>name of the Eye gives them an eminent place</hi> in the body, ſeats them aloft, where they have the com<g ref="char:EOLhyphen"/>mand of the inferiour parts, and allows them an honorable place in the Common-wealth.</p>
+            <p>If you ask; <hi>Cui bono? To what end are the eyes mounted aloft?</hi> Is it only for the eyes ſake; or is it not ſtill, for <hi>for the good of the whole body.</hi> Surely in vain were ſo much care taken for them (as there is) by the other parts, if their requital were not anſwerable.</p>
+            <p>For (to ſee it in the natural eye firſt.)</p>
+            <p>
+               <hi>Why doth nature wall the eyes about,</hi> with thoſe bones that frame their orb?</p>
+            <p>Why doth ſhe <hi>arch them above</hi> with the eye-brows?</p>
+            <p>Why doth ſhe <hi>fence them (on either ſide) with
+<pb n="7" facs="tcp:40211:5"/>hair,</hi> in ſuch manner ſhot out of the skin, that no motes, nor any other annoyance ſhall fall into them?</p>
+            <p>Why are they by <hi>the prominence of the cheeks</hi> every way ſo ſecured, that (if any thing ruſh againſt them) they may be ſtill unoffended?</p>
+            <p>Why all this for the eyes, <hi>that they may skulk in a den?</hi> be nuzled <hi>in ſecurity,</hi> and rocked aſleep in a ſtrong fort?</p>
+            <p>When we have asked this of the natural Eye, then come to ſuch an Eye as <hi>Job</hi> was here.</p>
+            <p>Why was <hi>Job,</hi> and why are other great Miniſters of State, the Rulers and <hi>Iudges of other men?</hi>
+            </p>
+            <p>Why are they ſeated ſo ſtrongly above o<g ref="char:EOLhyphen"/>thers?</p>
+            <p>Is it only, <hi>that they may be ſafe,</hi> and <hi>over<g ref="char:EOLhyphen"/>top the reſt</hi> in honor and dignity?</p>
+            <p>Holy <hi>Iob</hi> is none of them that would have ſaid ſo, he would rather have told us, that theſe eyes are placed there, <hi>like Watchmen in the higheſt towers,</hi> that (upon the hope of their vigilancy) they which are under them may be the more ſecure, and that from thence
+<pb n="8" facs="tcp:40211:6"/>
+               <hi>(like higher lights)</hi> they may better derive their influence to the inferiour orbs.</p>
+            <p>The height of their place is not the ground of their honor; (they begin at a wrong and that build there) For, be the place never ſo high, it is but <hi>the place of a high office;</hi> and the daily execution of that to the good of the body, that makes it a place of Honor.</p>
+            <p>
+               <hi>Gloria Regum inveſtigare rem</hi> (ſaith the wi<g ref="char:EOLhyphen"/>ſeſt King;)<note place="margin">
+                  <hi>Prov.</hi> 25.1.</note> and we may ſay (in the language of my Text) <hi>Gloria oculorum inveſtigare rem</hi>] It is the glory of all that are in eminent pla<g ref="char:EOLhyphen"/>ces, to be <hi>ſearching further with the eye of their wiſdome,</hi> then the capacity of ordinary per<g ref="char:EOLhyphen"/>ſons can either pierce into, or comprehend. That is the right uſe of ſuch an Eye.</p>
+            <p>But, if they be <hi>Eyes of an infectious nature,</hi> like the Crocodiles eyes, able to kill whom they liſt, and none ſhall know who hurt them.</p>
+            <p>If they be <hi>windows, ever open to let in miſ<g ref="char:EOLhyphen"/>chief,</hi> and ready to betray the other ſenſes, were it not <hi>far better they were ſomewhere elſe.</hi> For to little purpoſe are they ſet in the high<g ref="char:EOLhyphen"/>eſt places, that do not there carefully <hi>efpie what is good;</hi> and as providently <hi>foreſee, and
+<pb n="9" facs="tcp:40211:6"/>give warning of what is hurtfull</hi> to the other members.</p>
+            <p>I have done with the Place, with the Srength, and with the Height of it.</p>
+            <p>A ſecond thing that we may obſerve by way of Analogie,<milestone type="tcpmilestone" unit="unspecified" n="2"/> is the <hi>natural beauty of the Eye in it ſelf,</hi> without reference to the place: And indeed, all the beauty that is in the place, is from that derived unto it. <hi>Non domus Dominum, ſed Dominus domum</hi> (we uſe to ſay) it is not the place that graceth the eye, but it is the eye that <hi>beautifies the place;</hi> nay, that beatifies the whole body. <hi>Thou haſt ra<g ref="char:EOLhyphen"/>viſhed my heart with one of thine eyes</hi> (ſaith our bleſſed Lord in the <hi>Canticles.</hi>) What are <hi>thoſe Eyes</hi> think you, that did ſo raviſh the holieſt Bridegroom? What elſe, but <hi>the Miniſters of the State,</hi> and of <hi>the Church?</hi>
+            </p>
+            <p>For, theſe are the parts, that (of all other) muſt be <hi>without blemiſh,</hi> that ſo they may be <hi>enabled to puniſh the faults of others,</hi> without any check to themſelves. He that here calls himſelf the Eye, will you ſee how beautifull he was in himſelf: Look again upon the next words before my Text, and tell me,
+<pb n="10" facs="tcp:40211:7"/>
+               <hi>if ever there was a Stateſman of greater beauty.</hi>
+            </p>
+            <p>The <hi>Eye it ſelf is not lapt in more curious and dainty tunicles,</hi>
+               <label type="milestone">
+                  <seg type="milestoneunit">Ver. </seg>14</label> then he lapt himſelf. <hi>He put on</hi> Righteouſneſs, <hi>and it</hi> clothed <hi>him, His</hi> Judgement <hi>was his</hi> Robe <hi>and his</hi> Diademe.</p>
+            <p>Here is a Judge in his beſt robes of honor, clad with Righteouſneſs. And Righteouſ<g ref="char:EOLhyphen"/>neſs is ſuch a beauteous and amiable thing <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> (ſaith <hi>Ariſtotle</hi>) that is, the Sun, in all his glory, comes ſhort of that.</p>
+            <p>Now, as the Eye is the ſeat of beauty, ſo alſo (having the variety of many objects) it ſhould not <hi>chuſe any, but thoſe that are beau<g ref="char:EOLhyphen"/>tifull.</hi>
+            </p>
+            <p>They muſt <hi>not be given to filthy lucre</hi> (ſaith the Apoſtle, of the Eyes of the Church.) And ſo may we ſay of thoſe, that are the Eyes of the Common-wealth. What ſhould they do with filthie lucre. That word <hi>[filthy] is able to turn away any eye from it; theirs eſpe<g ref="char:EOLhyphen"/>cially.</hi>
+            </p>
+            <lg>
+               <l>Some <hi>rare beauty</hi> is befitting ſuch Eyes.</l>
+               <l>Some <hi>glorious virtue</hi> ſutes them beſt.</l>
+            </lg>
+            <p>For, as <hi>black and white colours</hi> are to the eyes
+<pb n="11" facs="tcp:40211:7"/>of the body, ſo is <hi>virtue</hi> and <hi>vice</hi> to the eye of Judgement, in ordinary men. Black vice gathers the beams of the ſight in one, that the eye may ſee, and be intent upon it. Fair vir<g ref="char:EOLhyphen"/>tue ſcatters them abroad, and therefore hardly admits of a perfect apprehenſion. Whence it is, that in ordinary Judgements that partake with ſenſe, we are <hi>quicker to espie and cenſure a man for one vice, then to love and reward him for many virtues.</hi> So it is in ordinary judgements. But I hope it is <hi>not ſo in the moſt judicious eye of him,</hi> that more ſtrict<g ref="char:EOLhyphen"/>ly bears the name of <hi>a Judge:</hi> His eye is not ſo ready to ſee and cenſure the worſt of a man, as it is to ſee and love the beſt. He is <hi>moſt earneſt in the beſt cauſe,</hi> and moſt affected to the beſt Lawyer that pleads before him; For he knows that it matters much, whom the eye of the Judge doth moſt favour. And <hi>this be ſaid of that beauty,</hi> that either ſhould be in the eye, or ſhould draw the eye un<g ref="char:EOLhyphen"/>to it.</p>
+            <p>There is yet a third thing in the eye, by which nature hath made it more uſefull to the body.</p>
+            <pb n="12" facs="tcp:40211:8"/>
+            <p>That it is the only <hi>fountain of pity:</hi> The <hi>dore</hi> where we ſend out <hi>our love:</hi> The <hi>paſſage of our tears:</hi> and the beſt <hi>Interpreter of our in<g ref="char:EOLhyphen"/>ward mercy and compaſsion</hi> (I ſpeak not for too much pity of Malefactors, but juſt pity of the Innocent.) And this, of all other, muſt not be left out, if we proportion a Judge to the Eye: For we ſhall <hi>get little by the two for<g ref="char:EOLhyphen"/>mer without this.</hi> To tell him that he is in the <hi>higheſt place,</hi> is to make him proud, and that he is the moſt <hi>glorious and beautifull part</hi> is to make him yet more proud: but to make him the <hi>tendreſt part,</hi> and that from which (of all other) we chiefly look for love and pity: that is it that cannot but move him. And this, I know not, whether it may be more urged, <hi>from the eye,</hi> or <hi>from the feet:</hi> So tender are both of them, the feet no leſs then the eye, the veins meeting all there, and making them alſo eaſily affected to the quick with the leaſt touch. And therefore for this (my Lords) having two wayes to urge it, I may preſume we are ſure to ſpeed, <hi>[apud tam aequos rerum Judices]</hi> And ſo we ſhould do, though it were not urged at all.</p>
+            <pb n="13" facs="tcp:40211:8"/>
+            <p>
+               <hi>To pity the Innocent,</hi> to commiſerate the diſtreſſed eſtate of the poor, it <hi>needs no per<g ref="char:EOLhyphen"/>ſuaſion;</hi> all good natures bring it with them from their Cradles: Only this is our miſery; <hi>Great fortunes</hi> (they ſay) <hi>uſe to alter our diſ<g ref="char:EOLhyphen"/>poſitions,</hi> and many, when they are come to be great men, are fain to be intreated to put on the natural affection of men.</p>
+            <p>Anatomiſts tell us, that <hi>in the eye of man there is a muſcle, that lifts it upwards</hi> (and ſo I confeſs it ſhould be, not in pride, but in ſome better ejaculations towards heaven.]</p>
+            <p>But there is a Connexion in theſe words of my Text, which, like a ſtrong muſcle, ſeems to <hi>draw the eyes of the Judge downward,</hi> as low as may be. He is made the <hi>eye to the blind,</hi> and the <hi>feet to the lame:</hi> and therefore ſhould <hi>his care and overſight</hi> of the poor, and father<g ref="char:EOLhyphen"/>leſs, and widow be <hi>like the deſires of the eye,</hi> never ſatisfied, but with the ſight and ſuccour of them. And then <hi>ſomewhat would be done in reference to the feet,</hi> which now we come to.</p>
+            <p>For, a near challenge we have to the Judge, as he is the eye; but (to make it ſure) <hi>here is another part</hi> of my Text, that makes him ſtill
+<pb n="14" facs="tcp:40211:9"/>the more ours, and puts him yet the more in mind of what we may expect from him. It is not enough for him to ſit aloſt in the chiefeſt Caſtle of the body, like an imperious eye, and perhaps be a little affected with the trouble of it. <hi>The eye is of it ſelf the buſieſt member,</hi> and will be ever employed in the variety of ſeveral objects. And ſo muſt they be that are the eyes of the Common-wealth, ever in action. <hi>Reſt muſt be rather for others then them:</hi> That is ſomething more then we heard before. But that is too little to ſet out the labour of a good Judge. We muſt bring <hi>the Metaphore down to the very feet,</hi> rather then not expreſs this to the very full. It is the <hi>feet that are to bear the burden</hi> of the whole body; and that muſt fall to the Judges ſhare, if he will be like <hi>Job</hi> in goodneſs as well as great<g ref="char:EOLhyphen"/>neſs. He muſt be the pillar, the prop, the <hi>foot of the Common-wealth,</hi> yes, <hi>of the meaneſt part of it: I was the foot to the lame</hi> (ſaith <hi>Job</hi> there.)</p>
+            <p>We need not go ſarre to learn that. The <hi>name of a King</hi> (the <hi>ſupreme Head and Judge</hi> over all) implies this in the Greek. The
+<pb n="15" facs="tcp:40211:9"/>young Scholars will tell you that <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> (a King) is <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, the very foundation, <hi>the low<g ref="char:EOLhyphen"/>eſt part</hi> of all. So is <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> in Hebrew (the name of a Prince or great man) of <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> (to bear) becauſe <hi>he takes the burthen,</hi> and care of others upon himſelf: <hi>He is the foot as well as the eye.</hi>
+            </p>
+            <p>This was <hi>Plinie</hi>'s Dialect, to expreſs the care of <hi>Trajan. Incedis pedibus, ambulas inter nos,</hi> ſaith he, in <hi>Panegyr:</hi> where <hi>[ambu<g ref="char:EOLhyphen"/>lare]</hi> hath the ſame ſenſe of publick conver<g ref="char:EOLhyphen"/>ſation that <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> in the Hebrew, often hath in the old Teſtament. And in the Greek <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> and <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> have in the new. <hi>Ambulare,</hi> in this notion, when it is uſed of Princes (of ſuch as <hi>Trajan</hi>) it doth as good as tell us, that ſomething of importance it is expected he ſhould do, by which ſucceeding ages, as by ſeveral footſteps, may trace him out, and <hi>find an eaſier way</hi> to the publick good.</p>
+            <p>Shall I put you in mind of the <hi>language</hi> wherein <hi>Hobab, Moſes</hi> his Kinſman,<note place="margin">Numb. <hi>17.</hi>
+               </note> expreſ<g ref="char:EOLhyphen"/>ſed the great trouble that <hi>Moſes</hi> had in judg<g ref="char:EOLhyphen"/>ing the people. <hi>[Suſtentent tecum onus populi &amp; non ſolus graveris]</hi>
+            </p>
+            <pb n="16" facs="tcp:40211:10"/>
+            <p>Put them together, and here is both <hi>am<g ref="char:EOLhyphen"/>bulare</hi> and <hi>ſuſtentare:</hi> and (of the two) this <hi>ſuſtentare</hi> is more properly the uſe of the foot. And ſo it is of Judges, and the greateſt and nobleſt amongſt men. The <hi>whole</hi> body, <hi>eſpe<g ref="char:EOLhyphen"/>cially the blind and the lame,</hi> (the weakeſt part) <hi>muſt rely upon them.</hi> And though I ſpeak much for <hi>[ſuſtentare]</hi> yet I beſeech you (my good Lords) remember <hi>[ambulare]</hi> too. And, when you walk about in <hi>your ſeveral Circuits</hi> (to ſee the ruines of the land) think upon the great Judge that ſays, <hi>Scrutabor</hi> Jeruſalem <hi>in lucernis</hi>] And make this your comment up<g ref="char:EOLhyphen"/>on it, and the Application for every Judge in his own perſon. <hi>I will be the eye to the blind, and feet to the lame</hi> (in my Circuit) to find them out, and to help and ſupport them. I know you will give me leave to ſay ſo. And we all hope (my good Lords) that you will be <hi>ſuch Searchers,</hi> and <hi>ſuch Lights,</hi> and ſuch Eyes in every Circuit, where you come. And then the next thing I have to ſay, ſhall be only this: <hi>Ride on, and good luck have you with your Honor.</hi>
+               <note place="margin">
+                  <hi>Pſal.</hi> 25.5.</note> 
+               <hi>Let your Table be richly deck<g ref="char:EOLhyphen"/>ed, and your head refreſhed with oyl, and your
+<pb n="17" facs="tcp:40211:10"/>cup overflow;</hi> and (more then that) <hi>Let all the eyes that ſee you, bleſs you,</hi> and <hi>Let all the feet that come near you bow down unto you: For you are the eyes to the blind, and the feet to the lame.</hi>
+            </p>
+            <p>You ſee, as my Text doth, ſo do I; I joyn the parts together again (the eye and the foot.) And ſo it agrees well every way, the <hi>Eye of Honor</hi> and Contemplation, and the <hi>foot of Labour</hi> and Practice; The <hi>Eye that ſees what is to be done,</hi> and <hi>Foot that is able to go about it.</hi> When theſe are joyned together, what title can we give them good enough? They are like <hi>Starres</hi> (in their ſeveral orbes) that impart the benefit of their light and mo<g ref="char:EOLhyphen"/>tion to the inferiour bodies. <hi>Like another great</hi> Elias <hi>[Currus &amp; Auriga Iſraelis] The Charriot and the Horſeman of Iſrael:</hi> The Charriot (to carry the burden) and the Horſeman or Waggoner (to ſee and direct the way, that is <hi>[Oculus &amp; Pes]</hi> the <hi>Eye and the Foot.</hi>
+            </p>
+            <p>Which are ever ſo well met, that the Pro<g ref="char:EOLhyphen"/>phet <hi>Iſaiah</hi> puts them (in other terms) into the promiſe of a future happy government. <hi>Erunt Reges nutritii tui,</hi>
+               <note place="margin">49.23.</note> 
+               <hi>Kings ſhall be thy nur<g ref="char:EOLhyphen"/>ſing
+<pb n="18" facs="tcp:40211:11"/>Fathers, and Queens thy nurſing Mo<g ref="char:EOLhyphen"/>thers. Nurſing Fathers, and Nurſing Mothers,</hi> What's that? <hi>to carry them about</hi> (as it were) <hi>in their boſomes: To be their eyes and their feet.</hi> I cannot put it into better words then thoſe of my Text.</p>
+            <p>For let the Nurſe leav the Child a while to it ſelf, and it will ſoon appear, that <hi>the poor In<g ref="char:EOLhyphen"/>fant had no other eyes or feet</hi> (to help it ſelf with<g ref="char:EOLhyphen"/>all) <hi>but only thoſe of the Nurſe.</hi> And let thoſe that God hath ſet over us, either leave the people to themſelves, or be forced ſo to leave them. And then tell me, if ſuch a people would not ſoon prove, as theſe are in my Text, <hi>blind and lame.</hi> And happy then would be the feet of thoſe that could bring us ty<g ref="char:EOLhyphen"/>dings of one that would be (in <hi>Job</hi>'s deſcrip<g ref="char:EOLhyphen"/>tion) <hi>Oculus coeco, &amp; pes claudo] Eye to the blind, and Foot to to the lame.</hi>
+            </p>
+            <p>But here I muſt ſtop: For, now (my Lords) I have finiſhed the greateſt part of my Task. If you will give me leave to ſearch a little further into <hi>Job</hi>'s meaning, it may be we ſhall find, that this verſe contains the <hi>Form,</hi> the <hi>Soul,</hi> and the <hi>Eſſence</hi> of a <hi>good Judge.</hi>
+            </p>
+            <pb n="19" facs="tcp:40211:11"/>
+            <p>For,<milestone type="tcpmilestone" unit="unspecified" n="1"/> of all the parts and members of the body, only theſe two are peculiarly attribu<g ref="char:EOLhyphen"/>ted unto the ſoul. The <hi>Underſtanding is the Eye,</hi> the <hi>Affections are the Feet,</hi> and theſe two make up the whole ſoul.</p>
+            <p>And again, <hi>theſe Eyes</hi> in my text,<milestone type="tcpmilestone" unit="unspecified" n="2"/> though in ſome ſenſe they may be underſtood of the bo<g ref="char:EOLhyphen"/>dy politick; yet in no ſenſe can they be under<g ref="char:EOLhyphen"/>ſtood of the body of a man: For though it be againſt reaſon, that the greater light ſhould be extinguiſhed by the leſſer. Yet, ſo it falls out, that <hi>corporal eyes rather trouble the under<g ref="char:EOLhyphen"/>ſtanding in the courſe of Juſtice:</hi> Therefore we uſe to paint Juſtice rather blinded, then ha<g ref="char:EOLhyphen"/>ving the liberty of ſuch eyes. And thoſe fa<g ref="char:EOLhyphen"/>mous Judges among the Graecians in <hi>Areio<g ref="char:EOLhyphen"/>pago</hi> were wont to ſit at midnight, that they might <hi>not diſcern the difference of any man's perſon.</hi>
+            </p>
+            <p>And thirdly,<milestone type="tcpmilestone" unit="unspecified" n="3"/> If we ſearch what may be the meaning of it, which is the ſureſt way, <hi>by the law of Oppoſition,</hi> then we ſhall both confirme this ſenſe of the words, and gain ſomewhat elſe unto it.</p>
+            <p>For, what do you take to be meant by <hi>the
+<pb n="20" facs="tcp:40211:12"/>blind and the lame,</hi> in this reference to a Judge.</p>
+            <p>Sure.<milestone type="tcpmilestone" unit="unspecified" n="1"/> If we referre it to the under-officers of Juſtice (which his eye muſt chiefly ob<g ref="char:EOLhyphen"/>ſerve and guide.) What is <hi>Blindneſs in the In<g ref="char:EOLhyphen"/>formers, in the Witneſſes, in the Jury, in the Pleaders,</hi> but only Ignorance. And, what is <hi>Lameneſs on their parts,</hi> but the tedious pro<g ref="char:EOLhyphen"/>traction of poor mens Suits, or what elſe (of that nature) <hi>offends the</hi> [currat lex] <hi>the ſwift courſe of Juſtice.</hi>
+            </p>
+            <p>Now then, to build upon this, if <hi>Blindeſs</hi> and <hi>Lameneſs,</hi> be <hi>Ignorance</hi> and <hi>Slowneſs,</hi> in thoſe that are to be guided by the Judge; what muſt <hi>his Eye</hi> be (in reference to them) but the <hi>Eye of Underſtanding,</hi> the eye of Wiſ<g ref="char:EOLhyphen"/>dome? And thus it referres to ſuch Officers of Juſtice as are not worthy of that name.</p>
+            <p>Then,<milestone type="tcpmilestone" unit="unspecified" n="2"/> (in a ſecond place) If theſe blind and lame referre to them that are to be judg<g ref="char:EOLhyphen"/>ed to the <hi>[rei]</hi> that is to them whoſe cauſe is in hand: Then muſt blindneſs and lame<g ref="char:EOLhyphen"/>neſs in them be nothing elſe but <hi>impotency</hi> &amp; <hi>inability</hi> to help themſelves; which ſhould <hi>move the Judge</hi> (like God himſelf) <hi>to incline
+<pb n="21" facs="tcp:40211:12"/>rather to the weaker ſide;</hi> not to look upon the greateſt through the optique-glaſs of his own affections, and ſo to make them ſeem grea<g ref="char:EOLhyphen"/>ter and nearer to him then they ſhould be, but to be the <hi>eye to the blind,</hi> and the <hi>feet to the lame, rather to help them that cannot otherwiſe help themſelves.</hi>
+            </p>
+            <p>You ſee the ground of what we are to ſay.</p>
+            <p>Now, to ſet upon it in particular.</p>
+            <p>The firſt ranck of our blind men,<milestone type="tcpmilestone" unit="unspecified" n="1"/> are ſuch [in the Courts of Juſtice) as ſhould be the eyes to the Judge; but ſome way or other are ſo blinded, that he is fain to find eyes for them.</p>
+            <p>And (that we may diſcover them the bet<g ref="char:EOLhyphen"/>ter) <hi>their ignorance</hi> will teach us to make them of <hi>two kinds,</hi> according to the cauſe of their blindneſs; ſome of them being blinded by <hi>groſs ignorance,</hi> which we call <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> others by affected ignorance <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>. And of the two, the latter are the more dan<g ref="char:EOLhyphen"/>gerous, and call for a greater caveat from the Judge. For, they can indeed, but they will not pierce any further then to the ſcum and top of things; wherein, to ſay truth, we
+<pb n="22" facs="tcp:40211:13"/>are apt to offend moſt of us. It may well paſs for <hi>an epidemical diſeaſe:</hi> for it is not our ignorance, but our hope, and fear, and love, and anger, and hate, that is commonly ſuffe<g ref="char:EOLhyphen"/>red to bind up our ſight in darkneſs, and lead us blindfolded into all error. All which are ſo ordinary, that <hi>Solomon</hi> accounted them for wiſe men, <hi>that had their eyes in their heads.</hi> For many have found out new devices, by placing their eyes where they ſhould not be (in the hand, rather then in the head) by that means ſeeing more where they have ſome feeling of the cauſe, then where their heads might better direct them.</p>
+            <p>If there be any ſuch that hear me this day, it is likely, <hi>they do not ſee any ſuch things in themſelves.</hi> For what ſight can we expect in blind men? yet perhaps in a Sermon, by the help of the Preachers candle, they may be<g ref="char:EOLhyphen"/>gin to ſee a glimmering light of what they ſhould: But when they come to their old places of gain, their old thoughts meet them afreſh, as familiarly as if they had left them there till their return.</p>
+            <p>And this, I would it were their fault alone.
+<pb n="23" facs="tcp:40211:13"/>There we erre too, all of us, whatſoever we think of our worſt affections in Gods houſe, when their uglineſs is ript up, we ſhall eaſily come to our old former opinions, when we come to the former places of our practiſe, unleſs (with the <hi>Lamiae</hi>) we could leave our old eyes at home, and carry new and better along with us.</p>
+            <p>I have been the larger in this diſcovery of their blindneſs, as being the cauſe of another vice that follows after it: For in that me<g ref="char:EOLhyphen"/>thod my Text brings them in; firſt the blind, and then the lame. <hi>A lame pace muſt needs pro<g ref="char:EOLhyphen"/>ceed from that blindneſs:</hi> And when we have found the cauſe of the one, we may ſafely preſume that to be the cauſe of the other alſo. <hi>If their blindneſs proceed from groſs igno<g ref="char:EOLhyphen"/>rance, that is it that makes their delayes. If it grow from affected ignorance,</hi> if gain or paſſion ſtand between them and wiſdome, then they are lame; <hi>they go ſlowly (in the courſe of law) for the ſame cauſe.</hi> That is it that makes the Tryal creep ſo ſlowly, or rather ſo ſlily for<g ref="char:EOLhyphen"/>ward, that it carrieth with it no witneſs of any proficiency. That is it that makes them
+<pb n="24" facs="tcp:40211:14"/>crie with the ſluggard, <hi>yet a little, and yet a little, while the poor man's cauſe turns about like the dore on her hinges,</hi> and is never the nea<g ref="char:EOLhyphen"/>rer to what it ſhould be, after all their de<g ref="char:EOLhyphen"/>layes.</p>
+            <p>But here I would be underſtood with ſome caution; for I know the uſe and the need of <hi>juſt demurres. The Romans had it</hi> (in their law) <hi>under the terme of [Ampliare]</hi> as appears by more then one place in <hi>Tullies</hi> Orations. In the Greek we find it under the name of <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> (in the Apoſtle <hi>Pauls</hi> caſe) <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>;<note place="margin">
+                  <hi>Acts</hi> 24.22.</note> 
+               <hi>Faelix</hi> put them off for a while, and took an <hi>[amplius deliberandum]</hi> a <hi>demorari,</hi> that is, <hi>a demurre,</hi> This was a good piece of wiſ<g ref="char:EOLhyphen"/>dome and juſtice in <hi>Faelix;</hi> and if <hi>Faelix</hi> had ſtaid here, he had done well, and been like his name. But go along with him to the 26. verſe of this chapter: And there is <hi>ſuch a de<g ref="char:EOLhyphen"/>lay of juſtice, as makes little for</hi> Faelix <hi>his cre<g ref="char:EOLhyphen"/>dit.</hi> The words go thus,<note place="margin">
+                  <hi>Acts</hi> 24, 26.</note> Faelix <hi>hoped that mony would have been given him of</hi> Paul, <hi>that he might looſe him. Faelix</hi> his firſt demurre, <hi>verſe</hi> 22. was fit to be uſed for juſtice ſake: But ſuch as his laſt, and tedious delayes for
+<pb n="25" facs="tcp:40211:14"/>baſe ends of his own, that is it I would not have, and that is the fault which puts <hi>theſe delayers of Juſtice</hi> into the number of <hi>lame men,</hi> whoſe feet <hi>ſeem to crawl, rather then go,</hi> if ſome bodies hands be not quick enough; an honeſt man may ſoon be as farre as heaven before them.</p>
+            <p>Pardon me (my honoured Lords) for ſpeak<g ref="char:EOLhyphen"/>ing of any blind and lame men, in the Courts of Juſtice. For I confeſs I know none that are ſo, and I hope there are no ſuch here. But we have learned the more to fear other Profeſſions, by that we ſee too often in our own. All that are of our Coat ſhould be (as it is of you in my Text) <hi>the eyes to the blind, the Seers of Iſrael, and the Lights of the land.</hi> But even into that holy Order, many blind guides are crept in (we know not how) And one that is truly <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, a good Overſeer would do well: And if he fail, there is <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, an eye from Heaven, that ſees all. So it is perhaps in the courſe of Law, Many clear eyes there are, <hi>Many good Law<g ref="char:EOLhyphen"/>yers.</hi> God be thanked. But becauſe <hi>blind men may ſtumble upon their places;</hi> therefore a
+<pb n="26" facs="tcp:40211:15"/>Judge there muſt be (a clearer Eye:) And if he fail, <hi>Deus ſtat in medio Deorum</hi> (ſaith the Pſalmiſt) that is, <hi>in medio Judicum,</hi> as the Hebrew word is taken.</p>
+            <p>So, for the other member of my Text, we ſhould be all <hi>like feet to the lame, ſureſt to stand faſt, and cloſeſt to them that need us moſt.</hi> But, becauſe many of us <hi>halt between two o<g ref="char:EOLhyphen"/>pinions,</hi> it is to be ſuſpected, that ſome in law may halt as much <hi>between two cauſes,</hi> and being feed on both parts, will not ſtir a foot to help either. And though indeed theſe are no parts of the body, no more then wooden legs; yet (of all other) they muſt <hi>not be touched on the blind ſide:</hi> Every ſmall reprehenſion galls them, becauſe it calls their eyes home, to ſee a glimpſe of what they ſhould be.</p>
+            <p>But now I have done with thoſe blind Cripples, I will only commit them to the eye of the Judge; it muſt be his wiſdome to ſee the cauſe fare never the worſe for their ſakes. Upon him we rely much; And <hi>If the eye be ſingle, all the body will be ſo: but if the eye be darkneſs, how great is that darkneſs?</hi>
+            </p>
+            <pb n="27" facs="tcp:40211:15"/>
+            <p>If there be any defect in the inferiour Of<g ref="char:EOLhyphen"/>ficers of Juſtice, the danger is the leſs, and it may the more be born with. But <hi>if the eye offend</hi>—you know what follows, <hi>pluck it out.</hi> He would not have ſaid ſo, that is the Judge of all: but to ſhew us how the grea<g ref="char:EOLhyphen"/>teſt danger is in that. As needs it muſt be; for the beſt thing corrupted, is the worſt: A bad man is the worſt of all creatures, and an evil Eye is the worſt of all members.</p>
+            <p>There is no paſſage more eaſie for entry of vice, then by the cranny of the Eye: For it is alwayes buſie about ſome thing, it is of too fine and quick a mettal to love idleneſs: If it be not employed as it ſhould be, it will be employed as it ſhould not: And ſo the whole body may fare the worſe for the Eye. As it may for the feet too; If they be lame, the whole body is unconſtantly carried on ei<g ref="char:EOLhyphen"/>ther ſide: For ſtill I muſt joyn them both together: and ſo muſt every good Judge that will be like to this pattern here, <hi>the eye to the blind, and the feet to the lame.</hi>
+            </p>
+            <p>Hitherto we have ſeen what ſhould be the provident care of the Judge to any blind or
+<pb n="28" facs="tcp:40211:16"/>lame under him, that is, to any that may obſcure or hinder the cauſe.</p>
+            <p>Now, what is the end of all this? but on<g ref="char:EOLhyphen"/>ly that he may be able to help, <hi>an other rank of blind and lame,</hi> the <hi>poor Priſoners,</hi> the <hi>weak Defendants,</hi> the <hi>impotent Widows</hi> and <hi>Orphans</hi> or any other, that being wrongfully called in queſtion, know not how to help them<g ref="char:EOLhyphen"/>ſelves.</p>
+            <p>When the Apoſtles came near any blind, or lame, the Scripture ſaith they would <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, earneſtly and affectionately behold them. If theſe eyes in my Text (our grave and learned Judges) will pleaſe to <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, to look ſeriouſly upon them. How many ar<g ref="char:EOLhyphen"/>guments may they eſpie in the pooreſt In<g ref="char:EOLhyphen"/>nocents, that could not but move them un<g ref="char:EOLhyphen"/>to pity?</p>
+            <p>In every one of them,<milestone type="tcpmilestone" unit="unspecified" n="1"/> they look upon the <hi>Image</hi> of <hi>God,</hi> that is ſo obſcured:— and they look upon <hi>their own nature,</hi> that is ſo af<g ref="char:EOLhyphen"/>flicted. In what heavy plight ſoever they are, they are the members of the ſame body with themſelves; and therefore no pearls ſhould move their eyes ſo much, as the tears of a
+<pb n="29" facs="tcp:40211:16"/>poor Innocent. They are able to move God himſelf, who keeps them in a bottle as a rich treaſure. <hi>They are no eyes that ſee not this:</hi> and if they ſo paſs it over, and look for o<g ref="char:EOLhyphen"/>thers to come and help them, in vain is it that they are ſtil'd <hi>[the eyes to the blind, and the feet to the lame.]</hi>
+            </p>
+            <p>Nay, it is not enough to help them in this caſe, that is, only to be their hands, or their feet; the <hi>ground of their help</hi> muſt firſt come from <hi>a tender eye:</hi> What is it to relieve a man in miſery, with as little care and affection, as if we did it to a dog? The better judge<g ref="char:EOLhyphen"/>ment of ſuch a deed is from the eye, <hi>if that be chearfull,</hi> and well affected in the doing of it. And if <hi>theſe eyes</hi> here <hi>be not</hi> thus affe<g ref="char:EOLhyphen"/>cted, <hi>they will once be ſorry that ever they had the honor to be eyes:</hi> therefore, in Gods name, let them look equally and friendly upon all. But if there be any difference in the perſons of men, here it is, God hath made them the eyes to the blind, and the feet to the lame. <hi>If they lean to any ſide, the beſt way is, to lean to the weakeſt.</hi> This is one thing.</p>
+            <milestone type="tcpmilestone" unit="unspecified" n="2"/>
+            <p>And again (which is a ſecond motive)
+<pb n="30" facs="tcp:40211:17"/>Who <hi>ſo eaſily abuſed, as the blind and the lame?</hi> therefore God hath made the greateſt Judges to be their Patrons, their eyes and their feet.</p>
+            <p>And this may <hi>beget a great confidence</hi> in a poor man: If he ſee with the eye of the Judge, he need not be afraid to meet his enemy in the face: If he ſtand upon their feet, whoſoever riſeth up againſt him, he is ſure to ſtand faſt.</p>
+            <p>And is it not <hi>able to breed as much terrour in his adverſary.</hi> Shall any man dare to grind the face of the poor, when the Judge ſaith, he is the eye to the poor, &amp; therfore muſt not ſpare them, that ſo nearly provoke his angry eye. Dare any man trample upon the poor, and think to raiſe himſelf by their fall? When the Judge ſaith, he is the feet to the poor, and therefore cannot but be as ready to tram<g ref="char:EOLhyphen"/>ple upon him again.</p>
+            <p>For,<milestone type="tcpmilestone" unit="unspecified" n="3"/> how can any good Judge but be af<g ref="char:EOLhyphen"/>fected with their cauſe, ſince he muſt ima<g ref="char:EOLhyphen"/>gine himſelf in their perſon? It is the only thing, that <hi>Lyſias</hi> makes <hi>Euphiletus</hi> deſire of the Judges, in his Oration againſt <hi>Eratoſthe<g ref="char:EOLhyphen"/>nes,</hi>
+               <pb n="31" facs="tcp:40211:17"/>
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>&amp;c.</hi> I deſire no more (ſaith he) but that you would imagine this injury done to your ſelves; and when you have made it your own caſe, I know it can<g ref="char:EOLhyphen"/>not but much affect you.</p>
+            <p>The like you have in <hi>Demoſthenes</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>&amp;c.</hi> that is, Put on the ſame affection in my cauſe, which you would do if it were yours.</p>
+            <p>I know not how any may be moved by theſe arguments; <milestone type="tcpmilestone" unit="unspecified" n="4"/> without them (me thinks) it were <hi>motive enough from their own ſatisfacti<g ref="char:EOLhyphen"/>on:</hi> For <hi>there may come a time, when old Age may rank the greateſt</hi> Potentates and Judges of the earth, and beſt of men, <hi>in the number of blind and decrepit, and lame,</hi> rob'd of all their health, and outward contentment. And then there will be no pleaſure, to the meditation of their former good deeds. They are only valerous then that are not afraid to think of themſelves, that dare ask account of their own lives (as <hi>Job</hi> did here) and can anſwer themſelves in his words. <hi>I was</hi> (once) <hi>the eye to the blind, and the feet to the lame.</hi> That puts me in mind of another Argument, left in my
+<pb n="32" facs="tcp:40211:18"/>Text, and with that I will conclude.</p>
+            <p>
+               <hi>I was</hi> (ſaith <hi>Job</hi>) <hi>I was the eye—He took opportunity of doing good while he had thoſe high places.</hi>
+               <milestone type="tcpmilestone" unit="unspecified" n="5"/> In which (though a man would have thought him ſtrangely ſeated) yet, the event proved, that height unable to ſecure him from that danger. He <hi>was once the eye to the blind</hi>— yet <hi>now the blind and the lame were in a farre better caſe then he, who ſo poor as</hi> Job? And it is meet indeed, that all of us (eſpeci<g ref="char:EOLhyphen"/>ally great men) ſhould ſtand thus tickle. <hi>This jogs them as much as pleaſure lulls them a<g ref="char:EOLhyphen"/>ſleep. This whiſpers in their ears,</hi> not to paſs the fair opportunity of doing good to others, leſt, when the ſtroke comes upon themſelves, they have cauſe to expect as little.</p>
+            <p>For <hi>greatneſs hath no other circuit,</hi> nor ought any man to dream of any other, then that, for which all power, honor, and wealth, is given to him; <hi>to ſupport the weakneſs of other mens fortunes,</hi> and to be (as <hi>Job</hi> was in his greateſt glory) the eyes to the blind, and the feet to the lame.</p>
+            <p>And now (my good Lords) I ſhall treſ<g ref="char:EOLhyphen"/>paſs no more upon your patience, then to
+<pb n="33" facs="tcp:40211:18"/>put you in mind, that <hi>this text is only your text, and the application muſt be yours,</hi> by keep<g ref="char:EOLhyphen"/>ing the ſame Pronoun to it that <hi>Job</hi> doth here; <hi>I was</hi> the eyes, <hi>I was</hi> the feet. They are not words for any of us to ſpeak in ſuch a compleat ſenſe as you can: And ſo ever ac<g ref="char:EOLhyphen"/>count them as the beſt priviledge that you have. St. <hi>Paul</hi> would not communicate his bonds to any (except theſe bonds, ſaith he.) Be you as dainty of theſe titles, keep the verſe ſtill in the ſame number, and make it good in your own perſons.</p>
+            <p>And though you be two commonly joyn<g ref="char:EOLhyphen"/>ed together in your Circuits, ſo that (a man would think) it were language good enough to ſay, <hi>We two were the eyes to the blind, and the feet to the lame.</hi> Yet, if you be rul'd by my Text, that is not enough, you muſt keep the number as ſtrictly as <hi>Job</hi> did in the Hebrew [<gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> and <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>] I was <hi>their two eyes,</hi> and <hi>their two feet,</hi> ſaith he in the <hi>duall number.</hi>
+            </p>
+            <p>Nor did he keep it, <hi>in the tongue</hi> only, but <hi>in his practiſe.</hi> He never <hi>blinkt to the Rich</hi>
+               <pb n="34" facs="tcp:40211:19"/>with one eye, while he <hi>caſt the other upon the poor:</hi> While he <hi>ſet one foot forward to help the poor,</hi> he never <hi>kept the other backward to ſe<g ref="char:EOLhyphen"/>cure the rich:</hi> His <hi>two eyes were for the blind,</hi> and his <hi>two feet for the lame.</hi> All this (to be ſure on) he ever did <hi>in his own perſon, ego ocu<g ref="char:EOLhyphen"/>lus, I was the two eyes.</hi> He did not put it off to others, in hope they would do it for him. And that is the ſureſt way, for every man that looks for the reward, in his own perſon too. For there will come a day at the great Aſſiſe of the whole world, when this Text will be thought none of the weakeſt pleas for the Kingdome of heaven. <hi>Receive the Kingdome</hi> (ſaith the great Judge of all:) why ſo? <hi>becauſe you viſited the poor, fed them, clothed them, &amp;c.</hi>
+            </p>
+            <p>But none have ſuch viſitations as you have in your Circuits, none have ſuch op<g ref="char:EOLhyphen"/>portunities to makes this plea good, <hi>ego eram oculus coeco</hi>— Wonder not that <hi>Job</hi> ſaid ſo confidently, <hi>I know that my Redeemer lives, and that I ſhall ſee him with theſe eyes.</hi> Here is ſome ground of his confidence, himſelf
+<pb n="35" facs="tcp:40211:19"/>
+               <hi>had been the eyes to the blind,</hi> and could not but be ſo rewarded.</p>
+            <p>Which happy reward, we humbly be<g ref="char:EOLhyphen"/>ſeech that great Judge of all, Jeſus Chriſt, the righteous, out of the riches of his mercy to beſtow upon you in the laſt day.</p>
+            <p>To whom, as you do, we all deſire to a<g ref="char:EOLhyphen"/>ſcribe, all Honour and Glory, now and for ever.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
